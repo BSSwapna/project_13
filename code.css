@@ -44,4 +44,8 @@ social-links a:hover {
     transform: translateY(-3px);
 }
 
-
+.footer-links h3, .footer-contact h3 {
+    font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+    color: var(--light);
+}
