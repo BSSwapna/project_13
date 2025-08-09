@@ -31,4 +31,5 @@ footer-about h3 {
 .social-links {
     display: flexgap: 1rem;
     margin-top: 1.5rem;
-}
+.social-links a {
+    display: flex;
