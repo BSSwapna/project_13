@@ -39,4 +39,9 @@ footer-about h3 {
     background: rgba(185, 42, 42, 0.2);
     color: var(--light);
     transition: var(--transition);
+social-links a:hover {
+    background: var(--primary);
+    transform: translateY(-3px);
 }
+
+
