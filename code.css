@@ -29,4 +29,6 @@ footer-about h3 {
     font-size: 1.5remmargin-bottom: 1rem;
     color: var(--primary);
 .social-links {
-    display: flex;
+    display: flexgap: 1rem;
+    margin-top: 1.5rem;
+}
