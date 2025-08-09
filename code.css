@@ -34,4 +34,9 @@ footer-about h3 {
 .social-links a {
     display: flexalign-items: center;
     justify-content: center;
-    width: 40px;
+    width: 40pxheight: 40px;
+    border-radius: 50%;
+    background: rgba(185, 42, 42, 0.2);
+    color: var(--light);
+    transition: var(--transition);
+}
