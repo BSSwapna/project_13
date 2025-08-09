@@ -55,4 +55,10 @@ social-links a:hover {
 
 .footer-links li {
     margin-bottom: 0.8rem;
+.footer-links a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    transition: var(--transition);
 }
+
+
