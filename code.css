@@ -68,4 +68,9 @@ social-links a:hover {
 
 .footer-contact p {
     display: flex;
-    align-items: center;
+    align-items: centergap: 0.8rem;
+    margin-bottom: 1rem;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+
