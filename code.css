@@ -12,4 +12,9 @@
 .testimonial-author p {
     font-size: 0.9rem;
     color: rgba(255, 255, 255, 0.8);
+/* Footer */
+.club-footer {
+    background: var(--dark);
+    padding: 4rem 5% 2rem;
+    margin-top: 4rem;
 }
