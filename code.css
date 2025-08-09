@@ -61,4 +61,9 @@ social-links a:hover {
     transition: var(--transition);
 }
 
+.footer-links a:hover {
+    color: var(--primary);
+    padding-left: 5px;
+}
+
 
