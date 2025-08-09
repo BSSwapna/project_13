@@ -48,4 +48,9 @@ social-links a:hover {
     font-size: 1.3rem;
     margin-bottom: 1.5rem;
     color: var(--light);
+.footer-links ul {
+    list-style: none;
+    padding: 0;
 }
+
+
