@@ -98,4 +98,9 @@ social-links a:hover {
     .about-content {
         flex-direction: column;
     }
-}
+@media (max-width: 768px) {
+    nav ul {
+        /* Hide desktop nav on mobile */
+        display: none; 
+        flex-direction: column; /* Stack vertically when shown */
+        position: absolute;
