@@ -86,4 +86,10 @@ social-links a:hover {
 /* Responsive Styles */
 @media (max-width: 1024px) {
     .club-header {
+ flex-direction: column;
+        text-align: center;
+        .header-content {
+        padding-right: 0;
+        margin-bottom: 2rem;
+    }
 
