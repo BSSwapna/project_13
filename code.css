@@ -103,4 +103,12 @@ social-links a:hover {
         /* Hide desktop nav on mobile */
         display: none; 
         flex-direction: column; /* Stack vertically when shown */
-        position: absolute;
+        position: absolutetop: 100%;
+        left: 0;
+        width: 100%;
+        background: rgba(46, 26, 26, 0.95);
+        backdrop-filter: blur(8px);
+        padding: 1rem 0;
+        box-shadow: var(--shadow);
+    }
+
