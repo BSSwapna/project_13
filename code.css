@@ -92,4 +92,7 @@ social-links a:hover {
         padding-right: 0;
         margin-bottom: 2rem;
     }
-
+ .header-actions {
+        justify-content: center;
+    }
+    
