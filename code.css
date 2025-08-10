@@ -95,4 +95,7 @@ social-links a:hover {
  .header-actions {
         justify-content: center;
     }
-    
+    .about-content {
+        flex-direction: column;
+    }
+}
