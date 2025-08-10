@@ -111,4 +111,10 @@ social-links a:hover {
         padding: 1rem 0;
         box-shadow: var(--shadow);
     }
+nav ul.active { /* Class to show mobile menu */
+        display: flex;
+    }
 
+    .mobile-menu-button {
+        display: block; /* Show mobile button on mobile */
+    }
