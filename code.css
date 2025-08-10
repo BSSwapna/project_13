@@ -73,4 +73,8 @@ social-links a:hover {
     color: rgba(255, 255, 255, 0.8);
 }
 
-
+.footer-contact i {
+    color: var(--primary);
+    width: 20px;
+    text-align: center;
+}
