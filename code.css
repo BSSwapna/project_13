@@ -12,7 +12,7 @@
 .testimonial-author p {
     font-size: 0.9rem;
     color: rgba(255, 255, 255, 0.8);
-/* Footer */
+/* Footer or foot */
 .club-footer {
     background: var(--dark);
     padding: 4rem 5% 2rem;
@@ -237,4 +237,4 @@ body.light-mode {
     color: var(--dark);
 }
 /* ending code by ujwal */
-
+/*line added by ishika*/
