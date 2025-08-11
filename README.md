@@ -79,6 +79,39 @@ Use meaningful class names
 Group related properties together
 
 Include comments for complex sections
+# CSS Stylesheets
+
+This directory contains all CSS files for the project.
+
+## Files
+- `styles.css` - Main stylesheet  
+- `responsive.css` - Media queries for mobile/tablet  
+- `animations.css` - Keyframe animations  
+
+## How to Use  
+Include in HTML:  
+```html
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="css/responsive.css" media="screen and (max-width: 768px)">
+---
+
+### **2. CSS Framework README**  
+```markdown
+# My Custom CSS Framework  
+
+A lightweight utility-first CSS framework.
+
+## Installation  
+```html
+<link rel="stylesheet" href="https://example.com/framework.min.css">Key Features
+12-column grid system
+
+Utility classes (e.g., .text-center, .mt-4)
+
+Theming via CSS variables
+
+
+
 
 
 
